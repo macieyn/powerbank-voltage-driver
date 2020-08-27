@@ -1,106 +1,57 @@
-23522808416738
-EKOLED-Elementy pasywne
-C_0603
-Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-EKOLED-Elementy pasywne
-C_0805
-Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-EKOLED-Elementy pasywne
-C_1206
-Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-EKOLED-Elementy pasywne
-ENCODER-EC11J12-15P30C-SW
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF
-rotary encoder
-0
-7
-6
-EKOLED-Elementy pasywne
-ENCODER_THT-Switch_Vertical_H20mm
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-EKOLED-Elementy pasywne
-Fuse_1210_3225Metric
-Fuse SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-EKOLED-Elementy pasywne
-Fuse_1812_SD050-16
-Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-EKOLED-Elementy pasywne
-Potencjometr_ACP_CA6-H2,5_Horizontal2
-Potentiometer, horizontal, ACP CA6-H2,5, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
-Potentiometer horizontal ACP CA6-H2,5
-0
-3
-3
-EKOLED-Elementy pasywne
-Potencjometr_CA6
-
-
-0
-4
-4
-EKOLED-Elementy pasywne
-R_0603
-Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-EKOLED-Elementy pasywne
-R_0805
-Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-EKOLED-Elementy pasywne
-R_0805_DO_CHINSKICH
+12596278729361
+EKOLED-Pady
+CYNO-ZWORA
 
 
 0
 2
 2
-EKOLED-Elementy pasywne
-R_1206
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-EKOLED-Elementy pasywne
-R_1206_3216Metric_ML
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-EKOLED-Elementy pasywne
-R_1206_DO_CHINSKICH
+EKOLED-Pady
+SMDPAD_1,5x1,5
 
 
 0
-2
-2
+1
+1
+EKOLED-Pady
+SMDPAD_1,27x2,5
+
+
+0
+1
+1
+EKOLED-Pady
+SMDPAD_1,75x3,5
+
+
+0
+1
+1
+EKOLED-Pady
+SMDPAD_2,0x4,0
+
+
+0
+1
+1
+EKOLED-Pady
+SMDPAD_2,4X2,0
+
+
+0
+1
+1
+EKOLED-Pady
+SMDPAD_2,54x5,08
+
+
+0
+1
+1
+EKOLED-Pady
+SMDPAD_EAGLE_1,2x3,5
+
+
+0
+1
+1
