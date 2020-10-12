@@ -24,11 +24,18 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
 #include <DataSignal.h>
 #include <Button.h>
 #include <QC3Controller.h>
 #include <Led.h>
 #include <Driver.h>
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
 
 /* USER CODE END Includes */
 
@@ -95,12 +102,25 @@ int main(void)
   MX_GPIO_Init();
   /* USER CODE BEGIN 2 */
 
+  //////////////////////////////////////////////////////////////////////////////////////////
+
+  // Inicjalizacja sygnałów DATA+ i DATA-
   DataSignal dp(DP_3V_GPIO_Port, DP_3V_Pin, DP_600mV_GPIO_Port,  DP_600mV_Pin);
   DataSignal dm(DM_3V_GPIO_Port, DM_3V_Pin, DM_600mV_GPIO_Port, DM_600mV_Pin);
+
+  // Inicjalizacja kontrolera QuickCharge3 i przekazanie instancji sygnałów
   QC3Controller qc3(&dp, &dm);
+
+  // Inicjalizacja przycisku
   Button btn(BTN_GPIO_Port, BTN_Pin);
+
+  // Inicjalizacja diody LED
   Led led(LED_GPIO_Port, LED_Pin);
+
+  // Inicjalizacja sterownika (zebranie wszystkich obsługiwanych peryferiów)
   Driver driver(&qc3, &btn, &led);
+
+  //////////////////////////////////////////////////////////////////////////////////////////
 
   /* USER CODE END 2 */
 
@@ -108,8 +128,12 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  ///////////////////////////////////////////////////////////////////////////////
 
+	  // Wywołanie metody uruchamiającej program sterownika
 	  driver.program();
+
+	  //////////////////////////////////////////////////////////////////////////////
 
     /* USER CODE END WHILE */
 

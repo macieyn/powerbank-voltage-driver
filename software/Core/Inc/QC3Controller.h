@@ -17,7 +17,7 @@
 
 // timing values for Portable Device are not available, indicative values for a HVDCP charger were taken from the uP7104 datasheet https://www.upi-semi.com/files/1889/1b8dae21-e91a-11e6-97d5-f1910565ec6d
 
-#define QC_T_GLITCH_BC_DONE_MS          1500
+#define QC_T_GLITCH_BC_DONE_MS          2000
 #define QC_T_GLICH_V_CHANGE_MS          60
 #define QC_T_ACTIVE_MS                  1
 #define QC_T_INACTIVE_MS                1

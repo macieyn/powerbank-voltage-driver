@@ -9,17 +9,17 @@ CDefines=USE_HAL_DRIVER;STM32G030xx;USE_HAL_DRIVER;USE_HAL_DRIVER;
 [PreviousGenFiles]
 AdvancedFolderStructure=true
 HeaderFileListSize=3
-HeaderFiles#0=Z:/Projektowy/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/.vs/Core/Inc/stm32g0xx_it.h
-HeaderFiles#1=Z:/Projektowy/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/.vs/Core/Inc/stm32g0xx_hal_conf.h
-HeaderFiles#2=Z:/Projektowy/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/.vs/Core/Inc/main.h
+HeaderFiles#0=R:/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/Core/Inc/stm32g0xx_it.h
+HeaderFiles#1=R:/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/Core/Inc/stm32g0xx_hal_conf.h
+HeaderFiles#2=R:/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/Core/Inc/main.h
 HeaderFolderListSize=1
-HeaderPath#0=Z:/Projektowy/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/.vs/Core/Inc
+HeaderPath#0=R:/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/Core/Inc
 HeaderFiles=;
 SourceFileListSize=3
-SourceFiles#0=Z:/Projektowy/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/.vs/Core/Src/stm32g0xx_it.c
-SourceFiles#1=Z:/Projektowy/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/.vs/Core/Src/stm32g0xx_hal_msp.c
-SourceFiles#2=Z:/Projektowy/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/.vs/Core/Src/main.c
+SourceFiles#0=R:/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/Core/Src/stm32g0xx_it.c
+SourceFiles#1=R:/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/Core/Src/stm32g0xx_hal_msp.c
+SourceFiles#2=R:/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/Core/Src/main.c
 SourceFolderListSize=1
-SourcePath#0=Z:/Projektowy/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/.vs/Core/Src
+SourcePath#0=R:/DOKUMENTACJA PROJEKTOWA/PROGRAMY ROZWOJOWE/STEROWANIE NAPIÊCIEM POWERBANK/powerbank-voltage-driver/software/Core/Src
 SourceFiles=;
 
